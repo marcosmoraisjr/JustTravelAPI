@@ -1,3 +1,16 @@
+
+![Logo](assets/logo.png)
+
+# JustTravelAPI
+
+## MVP - Integração Tecnológica para Expansão de Ofertas de Turismo Esportivo
+
+### Descrição do Projeto
+
+JustTravelAPI é uma solução tecnológica para facilitar a integração entre provedores de serviços esportivos e turistas. O projeto visa desenvolver uma API robusta que permita a expansão do turismo esportivo, conectando eventos, academias, clubes e serviços especializados a um público global.
+
+### Equipe
+
 | Nome                         | Trilha de Formação                                         | Alocação no Projeto                  | Tecnologias    |
 | ---------------------------- | ---------------------------------------------------------- | ------------------------------------ | -------------- |
 | MARCOS MORAIS DE SOUSA       | Tutor Trilha 7 - Desenvolvimento Back-End (Python)         | Gerente de Projetos de TI            | -              |
@@ -9,13 +22,6 @@
 | FRANKLIN XAVIER RAMOS SANTOS | Trilha 6 - Desenvolvimento Mobile (Node + React Native)    | Back-End e Front-End                 | Elixir/Phoenix |
 | GEISA DE SOUZA SANTOS        | Trilha 4 - Teste de Software (Robot Framework)             | Back-End e Testes                    | Elixir/Phoenix |
 
-# JustTravelAPI
-
-## MVP - Integração Tecnológica para Expansão de Ofertas de Turismo Esportivo
-
-### Descrição do Projeto
-
-JustTravelAPI é uma solução tecnológica para facilitar a integração entre provedores de serviços esportivos e turistas. O projeto visa desenvolver uma API robusta que permita a expansão do turismo esportivo, conectando eventos, academias, clubes e serviços especializados a um público global.
 
 ### Tecnologias Utilizadas
 
