@@ -1,5 +1,5 @@
 
-![Logo](assets/Logo.png)
+![Logo](/assets/logo.png)
 
 # JustTravelAPI
 
